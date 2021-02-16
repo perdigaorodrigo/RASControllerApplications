@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#Executando simulação com variação automática do coef. Manning e leitura automática de resultados
 """
 @author: Rodrigo Perdigão
 """
