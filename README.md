@@ -1,2 +1,2 @@
-# Python4Water
-# Códigos utilizados para controle e manipulação de simulações do modelo HEC-RAS 1D utilizando a ferramenta HECRASController 🌊
+# RASController Applications
+# Códigos utilizados para controle e manipulação de simulações da ferramenta HEC-RAS utilizando Python e a API HECRASController 🌊
